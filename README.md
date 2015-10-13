@@ -1,13 +1,14 @@
-# awesome-codeigniter  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome CodeIgniter  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A list of awesome [Codeigniter](http://codeigniter.com) helpers, libraries and resources.
 
 Table of contents:
 * [CMS](#cms)
 * [Libraries](#libraries)
-* [CRUD Generator](#CRUD-Generator)
+* [Third Party](#third-party)
+* [CRUD Generator](#crud-generator)
 * [Templates](#templates)
 * [Web Services](#web-services)
-* [Realtime](#Realtime)
+* [Realtime](#realtime)
 * [Reading](#reading)
 * [Community](#community)
 * [User Guide Translations](#user-guide-translations)
@@ -22,25 +23,35 @@ Table of contents:
 * [CodeIgniter Recaptcha](https://github.com/hok00age/codeigniter-recaptcha) - CodeIgniter library to work with reCAPTCHA.
 * [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System
 * [Tank-Auth](https://github.com/TankAuth/Tank-Auth) - Authentication library
+* [CI-FIle-Browser-Awesome](https://github.com/bachors/CI-FIle-Browser-Awesome) - Simple plugin file browser for codeigniter with jQuery.
+
+# Third Party
+* [Codeigniterplus](https://github.com/ranacseruet/codeigniterplus) - Scaffolding for a good standard web application.
+* [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) - Modular Extensions makes the CodeIgniter.
+* [CodeIgniter HMVC Modules](https://github.com/jenssegers/codeigniter-hmvc-modules) - Create HMVC modules with this lightweight extension.
 
 ## CRUD Generator
 * [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) - CRUD library that creates a full functional
 * [ci-gen](https://github.com/brainlabs/ci-gen) - Codeigniter CRUD Code Generator With Bootstrap.
 * [ciig -CI-Ignator](https://github.com/shabeeb/ciig) - codignator scaffolder for developers.
 * [iScaffold](https://github.com/tiborsaas/iScaffold) . A CRUD application generator.
+* [Codeigniter CRUD Generator](https://bitbucket.org/harviacode/codeigniter-crud-generator) - CRUD Generator is a simple tool to auto generate MVC.
 
 ## Templates
 * [CodeIgniter-Template](https://github.com/philsturgeon/codeigniter-template) - Template library for CodeIgniter.
-* [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - Free Premium Admin control Panel Theme.
+* [Twiggy](https://github.com/edmundask/codeigniter-twiggy) - Template engine implementation for CodeIgniter.
 * [Assets](https://github.com/creolab/assets) - Simple assets manager supports LESS, SASS, CoffeeScript.
 
 ## Web Services
+* [CodeIgniter Rest Server](https://github.com/chriskacerguis/codeigniter-restserver) - A fully RESTful server implementation for CodeIgniter.
+* [CodeIgniter-REST Client](https://github.com/philsturgeon/codeigniter-restclient) - A RESTful client CodeIgniter library.
 * [HybridIgniter](https://github.com/andacata/HybridIgniter) . HybridAuth - CodeIgniter integration.
 * [Omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library
 * [Veritrans Codeigniter](https://github.com/harrypujianto/Veritrans-Codeigniter) - Payment gateway library on Veritrans
 
 ## ORM
 * [Datamapper ORM](https://github.com/WanWizard/sparks-datamapper) - CodeIgniter Sparks Package for Datamapper ORM.
+* [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter
 
 ## Realtime
 * [Codeiginter FB like Chat library](https://github.com/abuzer/ci-chat) - codeigniter facebook chat library.
