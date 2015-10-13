@@ -5,7 +5,7 @@ Table of contents:
 
 * [CMS] (#cms)
 * [Libraries](#libraries)
-* [Theme](#theme)
+* [Templates](#templates)
 * [Web Services](#web-services)
 * [Reading](#reading)
 * [Community](#community)
@@ -15,5 +15,5 @@ Table of contents:
 
  * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API .
 
-## Theme
- * [Teamfox](http://teamfox.co/themes/pleasure/app/admin1/).
+## Templates
+ * [LTE Admin](https://almsaeedstudio.com/preview).
