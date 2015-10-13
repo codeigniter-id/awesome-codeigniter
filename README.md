@@ -17,23 +17,36 @@ Table of contents:
 * [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - Flat file CMS.
 * [Fuelcms](http://www.getfuelcms.com). The content management system for premium-grade websites.
 * [No-CMS](https://github.com/goFrendiAsgard/No-CMS) - A CodeIgniter Based CMS Framework.
+* [cms-canvas](https://github.com/diyphpdeveloper/cms-canvas) - CodeIgniter CMS.
+* [Ionize CMS](https://github.com/ionize/ionize) - ionize, native multilingual CMS.
+* [Codefight CMS](https://github.com/dbashyal/Codefight-CMS) - Codefight a Codeigniter CMS.
+* [Bonfire](https://github.com/ci-bonfire/Bonfire) - Jumpstart your CodeIgniter web applications.
+* [Hoosk](https://github.com/havok89/Hoosk) - Hoosk Codeigniter CMS.
+* [Halogy](https://github.com/jesseorndorff/Halogy) - Friendly, open source, easy-to-use publishing.
+* [ImageCMS](https://github.com/imagecms/ImageCMS) - Open source php CMS based on CodeIgniter.
+* [Codeigniter-Egypt](https://github.com/blazeeboy/Codeigniter-Egypt) - Another Codeigniter CMS, With some Love.
 
 ## Libraries
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library). Google Map API.
 * [CodeIgniter Recaptcha](https://github.com/hok00age/codeigniter-recaptcha) - CodeIgniter library to work with reCAPTCHA.
 * [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System
-* [Tank-Auth](https://github.com/TankAuth/Tank-Auth) - Authentication library
+* [Tank-Auth](https://github.com/TankAuth/Tank-Auth) - Authentication library.
+* [CodeIgniter Redis](https://github.com/joelcox/codeigniter-redis) - A CodeIgniter library to interact with Redis.
+* [CodeIgniter-Cache](https://github.com/benedmunds/codeigniter-cache) - CodeIgniter-Cache is a partial caching library for CodeIgniter.
+* [CodeIgniter Bootstrap](https://github.com/sjlu/CodeIgniter-Bootstrap) - Bundles packages CI, REST, Twitter Bootstrap, FA, lodash.
+* [Codeigniter Breadcrumbs](https://github.com/nobuti/Codeigniter-breadcrumbs) - Small breadcrumb library for CodeIgniter.
 * [CI-FIle-Browser-Awesome](https://github.com/bachors/CI-FIle-Browser-Awesome) - Simple plugin file browser for codeigniter with jQuery.
 
-# Third Party
+## Third Party
 * [Codeigniterplus](https://github.com/ranacseruet/codeigniterplus) - Scaffolding for a good standard web application.
 * [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) - Modular Extensions makes the CodeIgniter.
 * [CodeIgniter HMVC Modules](https://github.com/jenssegers/codeigniter-hmvc-modules) - Create HMVC modules with this lightweight extension.
 
-## CRUD Generator
-* [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) - CRUD library that creates a full functional
+## CRUD
+* [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) - CRUD library that creates a full functional.
+* [codeigniter-base-model](https://github.com/jamierumbelow/codeigniter-base-model) - CodeIgniter base CRUD model.
 * [ci-gen](https://github.com/brainlabs/ci-gen) - Codeigniter CRUD Code Generator With Bootstrap.
-* [ciig -CI-Ignator](https://github.com/shabeeb/ciig) - codignator scaffolder for developers.
+* [ciig](https://github.com/shabeeb/ciig) - Codignator scaffolder for developers.
 * [iScaffold](https://github.com/tiborsaas/iScaffold) . A CRUD application generator.
 * [Codeigniter CRUD Generator](https://bitbucket.org/harviacode/codeigniter-crud-generator) - CRUD Generator is a simple tool to auto generate MVC.
 
@@ -48,6 +61,8 @@ Table of contents:
 * [HybridIgniter](https://github.com/andacata/HybridIgniter) . HybridAuth - CodeIgniter integration.
 * [Omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library
 * [Veritrans Codeigniter](https://github.com/harrypujianto/Veritrans-Codeigniter) - Payment gateway library on Veritrans
+* [CodeIgniter-Twitter](https://github.com/elliothaughin/codeigniter-twitter) - Twitter API library for CodeIgniter.
+* [CodeIgniter-Facebook](https://github.com/elliothaughin/codeigniter-facebook) - Facebook Graph API, OpenGraph, and Connect for CodeIgniter.
 
 ## ORM
 * [Datamapper ORM](https://github.com/WanWizard/sparks-datamapper) - CodeIgniter Sparks Package for Datamapper ORM.
