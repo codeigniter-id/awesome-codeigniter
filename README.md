@@ -24,4 +24,4 @@ Table of contents:
  * [LTE Admin](https://almsaeedstudio.com/preview).
 
 ## User Guide Translations
- * [Indonesia] (http://codeigniter-id.github.io/user-guide/). Indonesian Codeigniter User Guide
+ * [Indonesia](http://codeigniter-id.github.io/user-guide/). Indonesian Codeigniter User Guide
