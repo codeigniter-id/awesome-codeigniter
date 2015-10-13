@@ -5,6 +5,7 @@ Table of contents:
 
 * [CMS] (#cms)
 * [Libraries](#libraries)
+* [Theme](#theme)
 * [Web Services](#web-services)
 * [Reading](#reading)
 * [Community](#community)
