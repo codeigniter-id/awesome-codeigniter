@@ -9,6 +9,7 @@ Table of contents:
 * [Web Services](#web-services)
 * [Reading](#reading)
 * [Community](#community)
+* [User Guide Translations](#user-guide-translations)
 
 ## CMS
 
@@ -21,3 +22,6 @@ Table of contents:
 
 ## Templates
  * [LTE Admin](https://almsaeedstudio.com/preview).
+
+## User Guide Translations
+ * [Indonesia] (http://codeigniter-id.github.io/user-guide/). Indonesian Codeigniter User Guide
