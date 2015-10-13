@@ -13,10 +13,11 @@ Table of contents:
 ## CMS
 
  * [Pusaka CMS] (https://github.com/codepolitan-lab/pusakacms) . Flat file CMS
+ * [Fuelcms] (http://www.getfuelcms.com). The content management system for premium-grade websites
 
 ## Libraries
 
- * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API .
+ * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library). Google Map API 
 
 ## Templates
  * [LTE Admin](https://almsaeedstudio.com/preview).
