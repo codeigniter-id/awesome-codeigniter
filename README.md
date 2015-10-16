@@ -6,7 +6,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-## Table of contents:
+## Table of contents
 * [Complex](#complex)
 * [CMS](#cms)
 * [Libraries](#libraries)
