@@ -3,7 +3,10 @@ A list of awesome [Codeigniter](http://codeigniter.com) core, helpers, hooks, la
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
-Table of contents:
+## Contributing
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Table of contents:
 * [Complex](#complex)
 * [CMS](#cms)
 * [Libraries](#libraries)
