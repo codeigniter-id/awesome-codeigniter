@@ -1,5 +1,5 @@
 # Awesome CodeIgniter  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of awesome [Codeigniter](http://codeigniter.com) core, helpers, hooks, language, libraries, third_party and other cool resources from CodeIgniter.
+A list of awesome [Codeigniter](http://codeigniter.com) core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -22,7 +22,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Complex
 * [Faster Development of CodeIgniter Apps](https://github.com/ci-bonfire/Bonfire) - Jumpstart your CodeIgniter web applications.
 * [Sprint PHP](https://github.com/ci-bonfire/Sprint) - A lightweight, modern addition to CodeIgniter 3. The heart of Bonfire Next.
-* [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
 
 ## CMS
 * [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - Flat file CMS.
@@ -74,6 +73,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Ignited Datatables](https://github.com/IgnitedDatatables/Ignited-Datatables) - a wrapper class/library based on the native Datatables.
 * [codeigniter-datatables](https://github.com/blake-nouribekian/codeigniter-datatables) - PHP Codeigniter server-side for jQuery DataTables.
 * [CodeIgniter Geolocation](https://github.com/JCSama/CodeIgniter-geolocation) - Library allows you to locate an IP Address.
+
+## Modeling
+* [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
 
 ## Third Party
 * [Codeigniterplus](https://github.com/ranacseruet/codeigniterplus) - Scaffolding for a good standard web application.
