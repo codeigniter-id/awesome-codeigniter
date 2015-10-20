@@ -10,14 +10,14 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Complex](#complex)
 * [CMS](#cms)
 * [Libraries](#libraries)
+* [Model](#model)
 * [Third Party](#third-party)
 * [CRUD Generator](#crud-generator)
 * [Templates](#templates)
 * [Web Services](#web-services)
 * [Realtime](#realtime)
-* [Reading](#reading)
-* [Community](#community)
 * [User Guide Translations](#user-guide-translations)
+* [Community](#community)
 
 ## Complex
 * [Faster Development of CodeIgniter Apps](https://github.com/ci-bonfire/Bonfire) - Jumpstart your CodeIgniter web applications.
@@ -74,7 +74,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [codeigniter-datatables](https://github.com/blake-nouribekian/codeigniter-datatables) - PHP Codeigniter server-side for jQuery DataTables.
 * [CodeIgniter Geolocation](https://github.com/JCSama/CodeIgniter-geolocation) - Library allows you to locate an IP Address.
 
-## Modeling
+## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
 
 ## Third Party
@@ -122,6 +122,16 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## User Guide Translations
 * [Indonesia](http://codeigniter-id.github.io/user-guide/) - Indonesian Codeigniter User Guide.
+
+## Community
+* [Official CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
+* [Chinese](https://github.com/CodeIgniter-Chinese)
+* [Indonesia](https://github.com/codeigniter-id)
+* [Japan](https://github.com/codeigniter-jp)
+* [Brazil](https://github.com/CIBr)
+* [Polandia](https://github.com/codeigniter-polska)
+* [Taiwan](https://github.com/CodeIgniter-TW)
+* [Korea](https://github.com/codeigniter-korea-forum)
 
 ## License
 
