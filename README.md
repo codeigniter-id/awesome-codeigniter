@@ -16,6 +16,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Templates](#templates)
 * [Web Services](#web-services)
 * [Realtime](#realtime)
+* [Books](#books)
 * [User Guide Translations](#user-guide-translations)
 * [Community](#community)
 
@@ -119,6 +120,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Codeiginter FB like Chat library](https://github.com/abuzer/ci-chat) - codeigniter facebook chat library.
 * [Codeigniter Chat](https://github.com/llbbl/codeigniter-chat) - web based chat -- right now just a simple shoutbox.
 * [Simple-realtime-message-SocketIO-NodeJS-CI](https://github.com/moemoe89/Simple-realtime-message-SocketIO-NodeJS-CI) - Simple realtime push message using CodeIgniter, Socket.IO (Node.JS), MySQL.
+
+## Books
+* [Practical CodeIgniter 3](https://leanpub.com/practicalcodeigniter3) - A concise, fun guide to getting up to speed using the CodeIgniter 3.
 
 ## User Guide Translations
 * [Indonesia](http://codeigniter-id.github.io/user-guide/) - Indonesian Codeigniter User Guide.
