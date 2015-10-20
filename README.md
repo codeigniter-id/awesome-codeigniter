@@ -20,6 +20,7 @@ Table of contents:
 ## Libraries
 
  * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library). Google Map API 
+ * [RESTServer - RESTful Server](https://github.com/chriskacerguis/codeigniter-restserver). RESTful server library
 
 ## Templates
  * [LTE Admin](https://almsaeedstudio.com/preview).
