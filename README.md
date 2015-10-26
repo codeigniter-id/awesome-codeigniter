@@ -87,6 +87,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## CRUD
 * [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) - CRUD library that creates a full functional.
+* [Grocery CRUD Image] (http://www.grocerycrud.com/image-crud) - CRUD Image lbrary by grocerycrud
 * [codeigniter-base-model](https://github.com/jamierumbelow/codeigniter-base-model) - CodeIgniter base CRUD model.
 * [ci-gen](https://github.com/brainlabs/ci-gen) - Codeigniter CRUD Code Generator With Bootstrap.
 * [ciig](https://github.com/shabeeb/ciig) - Codignator scaffolder for developers.
