@@ -74,6 +74,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [codeigniter-datatables](https://github.com/blake-nouribekian/codeigniter-datatables) - PHP Codeigniter server-side for jQuery DataTables.
 * [CodeIgniter Geolocation](https://github.com/JCSama/CodeIgniter-geolocation) - Library allows you to locate an IP Address.
 * [CodeIgniter-reCAPTCHA](https://github.com/appleboy/CodeIgniter-reCAPTCHA) -  reCAPTCHA library for CodeIgniter.
+* [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
