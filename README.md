@@ -42,6 +42,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Core
 * [CodeIgniter-Email-PHP-Errors](https://github.com/mikedfunk/CodeIgniter-Email-PHP-Errors) - A configurable drop-in customization to email yourself PHP errors encountered.
 * [CodeIgniter SimpleTest](https://github.com/ericbarnes/codeigniter-simpletest) - The CodeIgniter core is now being converted to using phpUnit.
+* [CodeIgniter](https://github.com/rougin/codeigniter) - A Composer-based package for CodeIgniter
 
 ## Libraries
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
@@ -75,6 +76,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter Geolocation](https://github.com/JCSama/CodeIgniter-geolocation) - Library allows you to locate an IP Address.
 * [CodeIgniter-reCAPTCHA](https://github.com/appleboy/CodeIgniter-reCAPTCHA) -  reCAPTCHA library for CodeIgniter.
 * [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
+* [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter
+* [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
@@ -96,6 +99,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [ciig](https://github.com/shabeeb/ciig) - Codignator scaffolder for developers.
 * [iScaffold](https://github.com/tiborsaas/iScaffold) - A CRUD application generator.
 * [Codeigniter CRUD Generator](https://bitbucket.org/harviacode/codeigniter-crud-generator) - CRUD Generator is a simple tool to auto generate MVC.
+* [Combustor](http://rougin.github.io/combustor) - A tool for speeding up workflow in CodeIgniter
 
 ## Templates
 * [Twiggy](https://github.com/edmundask/codeigniter-twiggy) - Template engine implementation for CodeIgniter.
