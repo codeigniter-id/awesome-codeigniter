@@ -12,7 +12,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Libraries](#libraries)
 * [Model](#model)
 * [Third Party](#third-party)
-* [CRUD Generator](#crud-generator)
+* [CRUD](#crud)
 * [Templates](#templates)
 * [Web Services](#web-services)
 * [Realtime](#realtime)
