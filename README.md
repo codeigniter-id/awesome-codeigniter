@@ -124,7 +124,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Datamapper ORM](https://github.com/WanWizard/sparks-datamapper) - CodeIgniter Sparks Package for Datamapper ORM.
 * [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter
 * [Credo](https://github.com/rougin/credo) - Integrates Doctrine to CodeIgniter with ease
-* [Wildfire] (https://github.com/rougin/wildfire) - Yet another wrapper for CodeIgniter's Query Builder Class
+* [Wildfire](https://github.com/rougin/wildfire) - Yet another wrapper for CodeIgniter's Query Builder Class
 
 ## Realtime
 * [Codeiginter FB like Chat library](https://github.com/abuzer/ci-chat) - codeigniter facebook chat library.
