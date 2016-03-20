@@ -42,7 +42,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Core
 * [CodeIgniter-Email-PHP-Errors](https://github.com/mikedfunk/CodeIgniter-Email-PHP-Errors) - A configurable drop-in customization to email yourself PHP errors encountered.
 * [CodeIgniter SimpleTest](https://github.com/ericbarnes/codeigniter-simpletest) - The CodeIgniter core is now being converted to using phpUnit.
-* [CodeIgniter](https://github.com/rougin/codeigniter) - A Composer-based package for CodeIgniter
+* [CodeIgniter](https://github.com/rougin/codeigniter) - Installs CodeIgniter core through Composer
 
 ## Libraries
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
@@ -100,7 +100,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [ciig](https://github.com/shabeeb/ciig) - Codignator scaffolder for developers.
 * [iScaffold](https://github.com/tiborsaas/iScaffold) - A CRUD application generator.
 * [Codeigniter CRUD Generator](https://bitbucket.org/harviacode/codeigniter-crud-generator) - CRUD Generator is a simple tool to auto generate MVC.
-* [Combustor](http://rougin.github.io/combustor) - A tool for speeding up workflow in CodeIgniter
+* [Combustor](http://rougin.github.io/combustor) - Lets you generate controllers, models, and views from database tables for CodeIgniter
 
 ## Templates
 * [Twiggy](https://github.com/edmundask/codeigniter-twiggy) - Template engine implementation for CodeIgniter.
@@ -123,6 +123,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## ORM
 * [Datamapper ORM](https://github.com/WanWizard/sparks-datamapper) - CodeIgniter Sparks Package for Datamapper ORM.
 * [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter
+* [Credo](https://github.com/rougin/credo) - Integrates Doctrine to CodeIgniter with ease
+* [Wildfire](https://github.com/rougin/wildfire) - Yet another wrapper for CodeIgniter's Query Builder Class
 
 ## Realtime
 * [Codeiginter FB like Chat library](https://github.com/abuzer/ci-chat) - codeigniter facebook chat library.
