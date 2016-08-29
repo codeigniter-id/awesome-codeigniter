@@ -113,6 +113,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [MY_Controller](https://github.com/lonnieezell/my_controller) - Simple template engine and many convenience features.
 * [Assets](https://github.com/creolab/assets) - Simple assets manager supports LESS, SASS, CoffeeScript.
 * [Attire](https://github.com/davidsosavaldes/Attire) - An implementation of Twig template engine and Sprockets-PHP asset manager framework for CodeIgniter 3.0x.
+* [Bash Igniter](https://github.com/omarkdev/bash-igniter) - Create Controllers, Models, routes, Views and Helpers using command line.
 
 ## Web Services
 * [CodeIgniter Rest Server](https://github.com/chriskacerguis/codeigniter-restserver) - A fully RESTful server implementation for CodeIgniter.
