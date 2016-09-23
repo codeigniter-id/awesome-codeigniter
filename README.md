@@ -46,6 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter](https://github.com/rougin/codeigniter) - Installs CodeIgniter core through Composer.
 
 ## Libraries
+* [SmartGrid for CodeIgniter](https://github.com/techlab/codeigniter-smartgrid) - Simple datagrid control for CodeIgniter framework with Bootstrap.
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
 * [CodeIgniter Recaptcha](https://github.com/hok00age/codeigniter-recaptcha) - CodeIgniter library to work with reCAPTCHA.
 * [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System.
