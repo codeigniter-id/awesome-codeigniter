@@ -17,6 +17,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Web Services](#web-services)
 * [Realtime](#realtime)
 * [User Guide Translations](#user-guide-translations)
+* [Useful Websites](#useful-websites)
 * [Community](#community)
 
 ## Complex
@@ -140,6 +141,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## User Guide Translations
 * [Indonesia](http://codeigniter-id.github.io/user-guide/) - Indonesian CodeIgniter User Guide.
+
+## Usefule Websites
+* [avenir.ro/codeigniter-tutorials](http://avenir.ro/codeigniter-tutorials/)
 
 ## Community
 * [Official CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
