@@ -57,7 +57,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-Cache](https://github.com/benedmunds/codeigniter-cache) - CodeIgniter-Cache is a partial caching library for CodeIgniter.
 * [CodeIgniter PHPMailer](https://github.com/ivantcholakov/codeigniter-phpmailer) - A CodeIgniter compatible email-library powered by PHPMailer.
 * [CodeIgniter-CLI](https://github.com/philsturgeon/codeigniter-cli) - Work with CodeIgniter over the command line.
-* [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) - CLI for CodeIgniter 3.0 using Symfony Console component. 
+* [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) - CLI for CodeIgniter 3.0 using Symfony Console component.
 * [CodeIgniter Bootstrap](https://github.com/sjlu/CodeIgniter-Bootstrap) - Bundles packages CI, REST, Twitter Bootstrap, FA, lodash.
 * [Codeigniter-breadcrumbs](https://github.com/nobuti/Codeigniter-breadcrumbs) - Small breadcrumb library for CodeIgniter.
 * [CodeIgniter-Breadcrumb](https://github.com/richarddavey/codeigniter-breadcrumb) - Breadcrumb generating library for CodeIgniter.
@@ -95,7 +95,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [codeigniter-phpunit](https://github.com/fmalk/codeigniter-phpunit) - Hack to make CodeIgniter work with PHPUnit.
 * [CodeIgniter Installer](https://github.com/mikecrittenden/codeigniter-installer) - A starting point for building an installer on CodeIgniter.
 * [Developer Toolbar](https://github.com/JCSama/CodeIgniter-develbar) - Developer Toolbar is a third party library based on Profiler.
-* [CodeIgniter Bundle](https://github.com/davidsosavaldes/Codeigniter-Bundle) - CodeIgniter Bundle implements a Modular pattern (MMVC) into Codeigniter Framework. 
+* [CodeIgniter Bundle](https://github.com/davidsosavaldes/Codeigniter-Bundle) - CodeIgniter Bundle implements a Modular pattern (MMVC) into Codeigniter Framework.
 * [Codeigniter Global Installer](https://github.com/davidsosavaldes/Codeigniter-Installer) - A Composer global command that installs the latest official CodeIgniter framework.
 * [Bash Igniter](https://github.com/omarkdev/bash-igniter) - Create Controllers, Models, routes, Views and Helpers using command line.
 
@@ -141,6 +141,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## User Guide Translations
 * [Indonesia](http://codeigniter-id.github.io/user-guide/) - Indonesian CodeIgniter User Guide.
+* [Brazil](https://cibr.github.io/User-Guide-CodeIgniter-PtBr/) - Brazilian CodeIgniter User Guide.
 
 ## Usefule Websites
 * [avenir.ro/codeigniter-tutorials](http://avenir.ro/codeigniter-tutorials/)
