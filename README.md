@@ -143,7 +143,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Indonesia](http://codeigniter-id.github.io/user-guide/) - Indonesian CodeIgniter User Guide.
 * [Brazil](https://cibr.github.io/User-Guide-CodeIgniter-PtBr/) - Brazilian CodeIgniter User Guide.
 
-## Usefule Websites
+## Useful Websites
 * [avenir.ro/codeigniter-tutorials](http://avenir.ro/codeigniter-tutorials/)
 
 ## Community
