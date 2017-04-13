@@ -40,6 +40,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [MaxSite CMS](https://github.com/maxsite/cms) - MaxSite CMS.
 * [ci-cms](https://bitbucket.org/hery/ci-cms) - CI-CMS using Modular Extensions.
 * [Codeigniter-Egypt](https://github.com/blazeeboy/Codeigniter-Egypt) - Another CodeIgniter CMS, With some Love.
+* [Open Blog](http://open-blog.org/) - Open Blog is a free and open source blogging platform built using the CodeIgniter PHP framework.
 
 ## Core
 * [CodeIgniter-Email-PHP-Errors](https://github.com/mikedfunk/CodeIgniter-Email-PHP-Errors) - A configurable drop-in customization to email yourself PHP errors encountered.
