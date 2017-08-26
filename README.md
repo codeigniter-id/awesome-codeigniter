@@ -34,7 +34,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Codefight CMS](https://github.com/dbashyal/Codefight-CMS) - Codefight a CodeIgniter CMS.
 * [Bonfire](https://github.com/ci-bonfire/Bonfire) - Jumpstart your CodeIgniter web applications.
 * [Hoosk](https://github.com/havok89/Hoosk) - Hoosk CodeIgniter CMS.
-* [Halogy](https://github.com/jesseorndorff/Halogy) - Friendly, open source, easy-to-use publishing.
+* [ForgeIgniter](https://github.com/Forgeigniter) - Friendly,open source, easy-to-use CMS.
 * [ImageCMS](https://github.com/imagecms/ImageCMS) - Open source php CMS based on CodeIgniter.
 * [nodCMS](https://github.com/khodakhah/nodcms) - A Free CMS powered by CodeIgniter.
 * [MaxSite CMS](https://github.com/maxsite/cms) - MaxSite CMS.
