@@ -24,6 +24,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Faster Development of CodeIgniter Apps](https://github.com/ci-bonfire/Bonfire) - Jumpstart your CodeIgniter web applications.
 * [Sprint PHP](https://github.com/ci-bonfire/Sprint) - A lightweight, modern addition to CodeIgniter 3. The heart of Bonfire Next.
 * [Ignition-Go](https://github.com/ci-blox/Ignition-Go) Codeigniter Modular App Building Framework and App starter - build enterprise class web applications
+* [ErtikazOS](https://github.com/daif/ertikazos/) A complete platform for building web applications.
 
 ## CMS
 * [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - Flat file CMS.
