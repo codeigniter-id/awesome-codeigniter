@@ -68,7 +68,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Forensics CodeIgniter](https://github.com/lonnieezell/codeigniter-forensics) - A high-powered, customizable Profiler replacement.
 * [CodeIgniter-Postmark](https://github.com/zackkitzmiller/postmark-codeigniter) - A Postmark (postmarkapp.com) library for CodeIgniter.
 * [CodeIgniter Schema](https://github.com/jamierumbelow/codeigniter-schema) - Expressive table definitions.
-* [CodeIgniter-Aauth](https://github.com/emreakay/CodeIgniter-Aauth) - Authorization, authentication and User Management library.
+* [CodeIgniter-Aauth](https://github.com/magefly/CodeIgniter-Aauth) - Authorization, authentication and User Management library.
 * [CI-FIle-Browser-Awesome](https://github.com/bachors/CI-FIle-Browser-Awesome) - Simple plugin file browser for CodeIgniter with jQuery.
 * [CodeIgniter Minify](https://github.com/ericbarnes/ci-minify) - Minify css and js files in CodeIgniter.
 * [CodeIgniter - minify](https://github.com/slav123/CodeIgniter-minify) - Minify library CSS and JavaScript compression on the fly.
@@ -84,7 +84,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
 * [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter.
 * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
-* [CodeIgniter-Aauth](https://github.com/emreakay/CodeIgniter-Aauth) - Authorization, authentication and User Management library for CodeIgniter 2.x and 3.x to make easy user management and permission operations.
+
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
