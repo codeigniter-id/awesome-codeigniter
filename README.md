@@ -84,7 +84,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
 * [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter.
 * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
-
+* [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API.
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
