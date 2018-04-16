@@ -9,6 +9,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Table of contents
 * [Complex](#complex)
 * [CMS](#cms)
+* [Hooks](#hooks)
 * [Libraries](#libraries)
 * [Model](#model)
 * [Third Party](#third-party)
