@@ -9,6 +9,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Table of contents
 * [Complex](#complex)
 * [CMS](#cms)
+* [Hooks](#hooks)
 * [Libraries](#libraries)
 * [Model](#model)
 * [Third Party](#third-party)
@@ -48,6 +49,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter SimpleTest](https://github.com/ericbarnes/codeigniter-simpletest) - The CodeIgniter core is now being converted to using PHPUnit.
 * [CodeIgniter](https://github.com/rougin/codeigniter) - Installs CodeIgniter core through Composer.
 
+
+## Hooks
+* [CodeIgniter-SSLHook](https://github.com/mehdibo/Codeigniter-SSLHook) - Appropriate headers and redirection for SSL websites .
+
 ## Libraries
 * [SmartGrid for CodeIgniter](https://github.com/techlab/codeigniter-smartgrid) - Simple datagrid control for CodeIgniter framework with Bootstrap.
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
@@ -84,7 +89,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
 * [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter.
 * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
-* [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API.
+* [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API
+* [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA V2 
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
