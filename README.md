@@ -26,7 +26,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Sprint PHP](https://github.com/ci-bonfire/Sprint) - A lightweight, modern addition to CodeIgniter 3. The heart of Bonfire Next.
 * [Ignition-Go](https://github.com/ci-blox/Ignition-Go) Codeigniter Modular App Building Framework and App starter - build enterprise class web applications
 * [ErtikazOS](https://github.com/daif/ertikazos/) A complete platform for building web applications.
-* [CodeIgniter Skeleton](https://github.com/bkader/skeleton) - Yet another CodeIgniter Skeleton with lots of ready-to-use dashboard, tables and other features.
+* [CodeIgniter Skeleton](https://github.com/bkader/skeleton) - Yet another CodeIgniter Skeleton with ready-to-use dashboard, database, hooks system, plugins, themes and lots of other features.
 
 ## CMS
 * [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - Flat file CMS.
