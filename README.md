@@ -27,6 +27,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Ignition-Go](https://github.com/ci-blox/Ignition-Go) Codeigniter Modular App Building Framework and App starter - build enterprise class web applications
 * [ErtikazOS](https://github.com/daif/ertikazos/) A complete platform for building web applications.
 * [CodeIgniter Skeleton](https://github.com/bkader/skeleton) - Yet another CodeIgniter Skeleton with ready-to-use dashboard, database, hooks system, plugins, themes and lots of other features.
+* [Luthier CI](https://github.com/ingeniasoftware/luthier-ci) - Improved routing, middleware support, authentication tools and more for CodeIgniter 3 framework
 
 ## CMS
 * [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - Flat file CMS.
