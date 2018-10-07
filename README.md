@@ -156,6 +156,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Useful Websites
 * [avenir.ro/codeigniter-tutorials](http://avenir.ro/codeigniter-tutorials/)
+* [Codeigniter Tutorials for Newbie](https://github.com/petanikode/tutorial-codeigniter) - Free Codeigniter tutorials by Petanikode in Indonesian.
+* [Codeigniter Tutorials](https://www.tutorialspoint.com/codeigniter/) - Codeigniter tutorials by Tutorialspoint
 
 ## Community
 * [Official CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
