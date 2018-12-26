@@ -47,6 +47,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Open Blog](http://open-blog.org/) - Open Blog is a free and open source blogging platform built using the CodeIgniter PHP framework.
 
 ## Core
+* [Codeigniter-PSR4-Autoload](https://github.com/yidas/codeigniter-psr4-autoload) - CodeIgniter 3 PSR-4 Autoloader for Application
 * [CodeIgniter-Email-PHP-Errors](https://github.com/mikedfunk/CodeIgniter-Email-PHP-Errors) - A configurable drop-in customization to email yourself PHP errors encountered.
 * [CodeIgniter SimpleTest](https://github.com/ericbarnes/codeigniter-simpletest) - The CodeIgniter core is now being converted to using PHPUnit.
 * [CodeIgniter](https://github.com/rougin/codeigniter) - Installs CodeIgniter core through Composer.
@@ -95,6 +96,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA V2 
 
 ## Model
+* [Codeigniter-Model](https://github.com/yidas/codeigniter-model) - CodeIgniter 3 Active Record (ORM) Standard Model with Laravel Eloquent & Yii2 AR like
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
 * [CIModelTester](https://github.com/cwingrav/CIModelTester) - An interactive model web interface.
 
@@ -129,6 +131,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CI-Blade](https://github.com/cntaoyu/CI-Blade) - Laravel blade template engine for Codeigniter 3.0+!
 
 ## Web Services
+* [Codeigniter Rest](https://github.com/yidas/codeigniter-rest) - CodeIgniter 3 RESTful API Resource Base Controller
 * [CodeIgniter Rest Server](https://github.com/chriskacerguis/codeigniter-restserver) - A fully RESTful server implementation for CodeIgniter.
 * [CodeIgniter-REST Client](https://github.com/philsturgeon/codeigniter-restclient) - A RESTful client CodeIgniter library.
 * [HybridIgniter](https://github.com/andacata/HybridIgniter) - HybridAuth - CodeIgniter integration.
@@ -140,6 +143,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-bitly](https://github.com/patrickpopowicz/codeigniter-bitly) - A CodeIgniter library for the bit.ly REST API.
 
 ## ORM
+* [Codeigniter ORM Model](https://github.com/yidas/codeigniter-model) - CodeIgniter 3 Active Record (ORM) Standard Model with Laravel Eloquent & Yii2 AR like
 * [Datamapper ORM](https://github.com/WanWizard/sparks-datamapper) - CodeIgniter Sparks Package for Datamapper ORM.
 * [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 * [Credo](https://github.com/rougin/credo) - Integrates Doctrine to CodeIgniter with ease.
