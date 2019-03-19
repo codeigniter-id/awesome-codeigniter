@@ -57,6 +57,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-SSLHook](https://github.com/mehdibo/Codeigniter-SSLHook) - Appropriate headers and redirection for SSL websites .
 
 ## Libraries
+* [CI-Breadcrumb](https://github.com/domProjects/CI-Breadcrumb) - Breadcrumb library for CodeIgniter 3.x.x with demo
 * [SmartGrid for CodeIgniter](https://github.com/techlab/codeigniter-smartgrid) - Simple datagrid control for CodeIgniter framework with Bootstrap.
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
 * [CodeIgniter Recaptcha](https://github.com/hok00age/codeigniter-recaptcha) - CodeIgniter library to work with reCAPTCHA.
