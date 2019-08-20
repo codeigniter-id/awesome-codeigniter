@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [ErtikazOS](https://github.com/daif/ertikazos/) A complete platform for building web applications.
 * [CodeIgniter Skeleton](https://github.com/bkader/skeleton) - Yet another CodeIgniter Skeleton with ready-to-use dashboard, database, hooks system, plugins, themes and lots of other features.
 * [Luthier CI](https://github.com/ingeniasoftware/luthier-ci) - Improved routing, middleware support, authentication tools and more for CodeIgniter 3 framework
+* [Rimbun Codeigniter Starter](https://github.com/herurahmat/rimbun) - A Complete platform for building web application from Indonesia Programmer. Built with Codeigniter 3
 
 ## CMS
 * [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - Flat file CMS.
