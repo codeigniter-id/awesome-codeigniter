@@ -132,6 +132,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Assets](https://github.com/creolab/assets) - Simple assets manager supports LESS, SASS, CoffeeScript.
 * [Attire](https://github.com/davidsosavaldes/Attire) - An implementation of Twig template engine and Sprockets-PHP asset manager framework for CodeIgniter 3.0x.
 * [CI-Blade](https://github.com/cntaoyu/CI-Blade) - Laravel blade template engine for Codeigniter 3.0+!
+* [Codeigniter Template Engine](https://github.com/agoenks29D/Codeigniter-Template-Engine)
 * [Slice-Library](https://github.com/GustMartins/Slice-Library) - Slice-Library is a CodeIgniter library that simulates Laravel's Blade templating system! 
 
 ## Web Services
