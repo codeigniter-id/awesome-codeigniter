@@ -73,7 +73,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   * [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System.
   * [Tank-Auth](https://github.com/TankAuth/Tank-Auth) - Authentication library.  
   * [CodeIgniter-Aauth](https://github.com/magefly/CodeIgniter-Aauth) - Authorization, authentication and User Management library.
-  * [facebook-ion-auth](https://github.com/dgeorgiev/facebook-ion-auth) - Facebook login working with ion_auth.V2 
+  * [facebook-ion-auth](https://github.com/dgeorgiev/facebook-ion-auth) - Facebook login working with ion_auth.V2
+  * [Smarty ACL](https://github.com/rubensrocha/codeigniter-smarty-acl) - Lightweight Auth System with ACL for CodeIgniter 3
 * Breadcrumbs
   * [CI-Breadcrumb](https://github.com/domProjects/CI-Breadcrumb) - Breadcrumb library for CodeIgniter 3.x.x with demo
   * [Codeigniter-breadcrumbs](https://github.com/nobuti/Codeigniter-breadcrumbs) - Small breadcrumb library for CodeIgniter.
