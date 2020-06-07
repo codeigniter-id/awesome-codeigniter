@@ -59,44 +59,56 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-SSLHook](https://github.com/mehdibo/Codeigniter-SSLHook) - Appropriate headers and redirection for SSL websites .
 
 ## Libraries
-* [CI-Breadcrumb](https://github.com/domProjects/CI-Breadcrumb) - Breadcrumb library for CodeIgniter 3.x.x with demo
-* [SmartGrid for CodeIgniter](https://github.com/techlab/codeigniter-smartgrid) - Simple datagrid control for CodeIgniter framework with Bootstrap.
-* [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
-* [CodeIgniter Recaptcha](https://github.com/hok00age/codeigniter-recaptcha) - CodeIgniter library to work with reCAPTCHA.
-* [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System.
-* [Tank-Auth](https://github.com/TankAuth/Tank-Auth) - Authentication library.
-* [CodeIgniter Redis](https://github.com/joelcox/codeigniter-redis) - A CodeIgniter library to interact with Redis.
-* [Memcached Library for CodeIgniter](https://github.com/tomschlick/memcached-library) - Library to Interface with the Memcached system.
-* [CodeIgniter-Cache](https://github.com/benedmunds/codeigniter-cache) - CodeIgniter-Cache is a partial caching library for CodeIgniter.
-* [CodeIgniter PHPMailer](https://github.com/ivantcholakov/codeigniter-phpmailer) - A CodeIgniter compatible email-library powered by PHPMailer.
-* [CodeIgniter-CLI](https://github.com/philsturgeon/codeigniter-cli) - Work with CodeIgniter over the command line.
-* [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) - CLI for CodeIgniter 3.0 using Symfony Console component.
-* [CodeIgniter Bootstrap](https://github.com/sjlu/CodeIgniter-Bootstrap) - Bundles packages CI, REST, Twitter Bootstrap, FA, lodash.
-* [Codeigniter-breadcrumbs](https://github.com/nobuti/Codeigniter-breadcrumbs) - Small breadcrumb library for CodeIgniter.
-* [CodeIgniter-Breadcrumb](https://github.com/richarddavey/codeigniter-breadcrumb) - Breadcrumb generating library for CodeIgniter.
-* [Sitemaps CodeIgniter](https://github.com/chemicaloliver/codeigniter-sitemaps) - A simple library to autogenerate xml sitemaps.
-* [CodeIgniter-Unzip](https://github.com/philsturgeon/codeigniter-unzip) - Extract ZIP files in CodeIgniter without installing any PECL.
-* [Forensics CodeIgniter](https://github.com/lonnieezell/codeigniter-forensics) - A high-powered, customizable Profiler replacement.
-* [CodeIgniter-Postmark](https://github.com/zackkitzmiller/postmark-codeigniter) - A Postmark (postmarkapp.com) library for CodeIgniter.
-* [CodeIgniter Schema](https://github.com/jamierumbelow/codeigniter-schema) - Expressive table definitions.
-* [CodeIgniter-Aauth](https://github.com/magefly/CodeIgniter-Aauth) - Authorization, authentication and User Management library.
-* [CI-FIle-Browser-Awesome](https://github.com/bachors/CI-FIle-Browser-Awesome) - Simple plugin file browser for CodeIgniter with jQuery.
-* [CodeIgniter Minify](https://github.com/ericbarnes/ci-minify) - Minify css and js files in CodeIgniter.
-* [CodeIgniter - minify](https://github.com/slav123/CodeIgniter-minify) - Minify library CSS and JavaScript compression on the fly.
-* [codeigniter-alert](https://github.com/dnizh93/codeigniter-alert) - An easy flashdata alert for CodeIgniter.
-* [Bcrypt CodeIgniter](https://github.com/dwightwatson/codeigniter-bcrypt) - Adaption of PHPPass for use as a CodeIgniter Bcrypt library.
-* [facebook-ion-auth](https://github.com/dgeorgiev/facebook-ion-auth) - Facebook login working with ion_auth.
-* [CodeIgniter Multi-Upload](https://github.com/stvnthomas/CodeIgniter-Multi-Upload) - Multiple file upload support for CodeIgniter 2.x.
-* [elasticsearch-codeigniter-library](https://github.com/confact/elasticsearch-codeigniter-library) - A small library to make search queries.
-* [Ignited Datatables](https://github.com/IgnitedDatatables/Ignited-Datatables) - a wrapper class/library based on the native Datatables.
-* [codeigniter-datatables](https://github.com/blake-nouribekian/codeigniter-datatables) - PHP CodeIgniter server-side for jQuery DataTables.
-* [CodeIgniter Geolocation](https://github.com/JCSama/CodeIgniter-geolocation) - Library allows you to locate an IP Address.
-* [CodeIgniter-reCAPTCHA](https://github.com/appleboy/CodeIgniter-reCAPTCHA) -  reCAPTCHA library for CodeIgniter.
-* [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
-* [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter.
-* [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
-* [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API
-* [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA V2 
+* Assets
+  * [CodeIgniter Minify](https://github.com/ericbarnes/ci-minify) - Minify css and js files in CodeIgniter.
+  * [CodeIgniter - minify](https://github.com/slav123/CodeIgniter-minify) - Minify library CSS and JavaScript compression on the fly.
+* API's
+  * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
+  * [CodeIgniter-Postmark](https://github.com/zackkitzmiller/postmark-codeigniter) - A Postmark (postmarkapp.com) library for CodeIgniter.
+  * [elasticsearch-codeigniter-library](https://github.com/confact/elasticsearch-codeigniter-library) - A small library to make search queries.
+  * [CodeIgniter Geolocation](https://github.com/JCSama/CodeIgniter-geolocation) - Library allows you to locate an IP Address.
+  * [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
+  * [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API
+* Auth
+  * [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System.
+  * [Tank-Auth](https://github.com/TankAuth/Tank-Auth) - Authentication library.  
+  * [CodeIgniter-Aauth](https://github.com/magefly/CodeIgniter-Aauth) - Authorization, authentication and User Management library.
+  * [facebook-ion-auth](https://github.com/dgeorgiev/facebook-ion-auth) - Facebook login working with ion_auth.V2 
+* Breadcrumbs
+  * [CI-Breadcrumb](https://github.com/domProjects/CI-Breadcrumb) - Breadcrumb library for CodeIgniter 3.x.x with demo
+  * [Codeigniter-breadcrumbs](https://github.com/nobuti/Codeigniter-breadcrumbs) - Small breadcrumb library for CodeIgniter.
+  * [CodeIgniter-Breadcrumb](https://github.com/richarddavey/codeigniter-breadcrumb) - Breadcrumb generating library for CodeIgniter.
+* Cache
+  * [CodeIgniter Redis](https://github.com/joelcox/codeigniter-redis) - A CodeIgniter library to interact with Redis.
+  * [Memcached Library for CodeIgniter](https://github.com/tomschlick/memcached-library) - Library to Interface with the Memcached system.
+  * [CodeIgniter-Cache](https://github.com/benedmunds/codeigniter-cache) - CodeIgniter-Cache is a partial caching library for CodeIgniter.
+* Captcha  
+  * [CodeIgniter Recaptcha](https://github.com/hok00age/codeigniter-recaptcha) - CodeIgniter library to work with reCAPTCHA.  
+  * [CodeIgniter-reCAPTCHA](https://github.com/appleboy/CodeIgniter-reCAPTCHA) -  reCAPTCHA library for CodeIgniter.
+  * [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA 
+* CLI
+  * [CodeIgniter-CLI](https://github.com/philsturgeon/codeigniter-cli) - Work with CodeIgniter over the command line.
+  * [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) - CLI for CodeIgniter 3.0 using Symfony Console component.
+* Database, Migrations, etc
+  * [CodeIgniter Schema](https://github.com/jamierumbelow/codeigniter-schema) - Expressive table definitions.
+  * [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter.
+* Datatables
+  * [Ignited Datatables](https://github.com/IgnitedDatatables/Ignited-Datatables) - a wrapper class/library based on the native Datatables.
+  * [codeigniter-datatables](https://github.com/blake-nouribekian/codeigniter-datatables) - PHP CodeIgniter server-side for jQuery DataTables.
+  * [SmartGrid for CodeIgniter](https://github.com/techlab/codeigniter-smartgrid) - Simple datagrid control for CodeIgniter framework with Bootstrap.
+* Email
+  * [CodeIgniter PHPMailer](https://github.com/ivantcholakov/codeigniter-phpmailer) - A CodeIgniter compatible email-library powered by PHPMailer.
+* File Tools
+  * [CodeIgniter-Unzip](https://github.com/philsturgeon/codeigniter-unzip) - Extract ZIP files in CodeIgniter without installing any PECL.
+  * [CI-FIle-Browser-Awesome](https://github.com/bachors/CI-FIle-Browser-Awesome) - Simple plugin file browser for CodeIgniter with jQuery.
+  * [CodeIgniter Multi-Upload](https://github.com/stvnthomas/CodeIgniter-Multi-Upload) - Multiple file upload support for CodeIgniter 2.x.
+* Others
+  * [CodeIgniter Bootstrap](https://github.com/sjlu/CodeIgniter-Bootstrap) - Bundles packages CI, REST, Twitter Bootstrap, FA, lodash.
+  * [Sitemaps CodeIgniter](https://github.com/chemicaloliver/codeigniter-sitemaps) - A simple library to autogenerate xml sitemaps.
+  * [Forensics CodeIgniter](https://github.com/lonnieezell/codeigniter-forensics) - A high-powered, customizable Profiler replacement.
+  * [codeigniter-alert](https://github.com/dnizh93/codeigniter-alert) - An easy flashdata alert for CodeIgniter.
+  * [Bcrypt CodeIgniter](https://github.com/dwightwatson/codeigniter-bcrypt) - Adaption of PHPPass for use as a CodeIgniter Bcrypt library.
+  * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
 
 ## Model
 * [Codeigniter-Model](https://github.com/yidas/codeigniter-model) - CodeIgniter 3 Active Record (ORM) Standard Model with Laravel Eloquent & Yii2 AR like
