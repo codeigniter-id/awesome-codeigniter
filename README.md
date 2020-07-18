@@ -30,6 +30,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Luthier CI](https://github.com/ingeniasoftware/luthier-ci) - Improved routing, middleware support, authentication tools and more for CodeIgniter 3 framework
 * [Rimbun Codeigniter Starter](https://github.com/herurahmat/rimbun) - A Complete platform for building web application from Indonesia Programmer. Built with Codeigniter 3
 * [My Igniter](https://github.com/agoenks29D/My-Igniter) - Codeigniter starter with [HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) + [ReactJs](https://reactjs.org/) + [Twig](https://twig.symfony.com/)
+* [Angeli](https://github.com/MedanSoftware/angeli) - Codeigniter starter with [HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) + [Template Engine](https://github.com/agoenks29D/Codeigniter-Template-Engine) + [Eloquent ORM](https://github.com/illuminate/database) and more useful feature for development.
 
 ## CMS
 * [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - Flat file CMS.
@@ -132,7 +133,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Assets](https://github.com/creolab/assets) - Simple assets manager supports LESS, SASS, CoffeeScript.
 * [Attire](https://github.com/davidsosavaldes/Attire) - An implementation of Twig template engine and Sprockets-PHP asset manager framework for CodeIgniter 3.0x.
 * [CI-Blade](https://github.com/cntaoyu/CI-Blade) - Laravel blade template engine for Codeigniter 3.0+!
-* [Codeigniter Template Engine](https://github.com/agoenks29D/Codeigniter-Template-Engine)
+* [Codeigniter Template Engine](https://github.com/agoenks29D/Codeigniter-Template-Engine) Codeigniter 3 Template Engine Drivers (Twig & Blade)
 * [Slice-Library](https://github.com/GustMartins/Slice-Library) - Slice-Library is a CodeIgniter library that simulates Laravel's Blade templating system! 
 
 ## Web Services
