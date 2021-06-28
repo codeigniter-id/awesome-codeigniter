@@ -97,6 +97,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
 * [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API
 * [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA V2 
+* [Assets Generator](https://github.com/mjamilasfihani/codeigniter-4-assets-generator) - Library for CI 4 for generating HTML template.
 
 ## Model
 * [Codeigniter-Model](https://github.com/yidas/codeigniter-model) - CodeIgniter 3 Active Record (ORM) Standard Model with Laravel Eloquent & Yii2 AR like
