@@ -95,8 +95,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
 * [Refinery](https://github.com/rougin/refinery) - "Ready-to-eat" migrations for CodeIgniter.
 * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
-* [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API
-* [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA V2 
+* [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API.
+* [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA V2.
+* [ALTCHA for CodeIgniter 3](https://github.com/rimas-kudelis/codeigniter-altcha) - CodeIgniter library which helps integrate ALTCHA in your web app.
 
 ## Model
 * [Codeigniter-Model](https://github.com/yidas/codeigniter-model) - CodeIgniter 3 Active Record (ORM) Standard Model with Laravel Eloquent & Yii2 AR like
